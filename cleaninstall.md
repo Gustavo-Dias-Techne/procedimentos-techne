@@ -59,3 +59,6 @@ Assim, apenas um processo de update é executado por vez:\
 ![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/74ac9f65-1745-4967-a0ae-017d7ee462de)\
 Após finalização do update, execute o Build All:\
 ![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/eef200fa-4755-4058-a692-092a78c26cf7)\
+Na aba Servers, na parte inferior, execute o clean do Tomcat:\
+![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/a458f071-6d9d-45e0-95c0-756dd1c6a310)\
+Após isso, pode executar o debug 🪲.

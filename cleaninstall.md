@@ -49,4 +49,6 @@ $ cd ..
 ```
 $ ./mvnw clean install -U
 ```
-Pronto.
+Após finalização, abra o eclipse, execute o maven update:
+![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/dea4e1d8-9aab-47af-a533-6b3ef2222788)
+

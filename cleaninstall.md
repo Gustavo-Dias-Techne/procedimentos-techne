@@ -1,5 +1,7 @@
 # 📑 Build Projeto - Lyceum
 
+Esta documentação é referente as etapas para o build do edu-lyc-lyceum, levando em consideração que foi utilizado java 11, caso seja necessario utilizar em outras versões de java, apenas lembre-se de alterar a versão do console para java 8.
+Apenas as branchs: Develop e support/10.0.x utilizam o Java 11. As demais branchs seguem o mesmo procedimento, utilizando o java 8.
 
 ## ⚙️Tecnologias
 

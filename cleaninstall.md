@@ -50,12 +50,12 @@ $ cd ..
 $ ./mvnw clean install -U
 ```
 Após finalização, abra o eclipse, execute o maven update:
-![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/dea4e1d8-9aab-47af-a533-6b3ef2222788)
-Selecione todos os projetos e clique em OK:
-![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/1835b1ed-945d-4961-be86-311e0c735d52)
-Para melhor desempenho do update, abra a aba progress e deixe apenas 1 update executando, clicando em parar nos demais, como na imagem abaixo:
-![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/34adaa3d-1f8f-4111-aab7-10f2bd45a08a)
-Assim, apenas um processo de update é executado por vez:
-![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/74ac9f65-1745-4967-a0ae-017d7ee462de)
-Após finalização do update, execute o Build All:
-![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/eef200fa-4755-4058-a692-092a78c26cf7)
+![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/dea4e1d8-9aab-47af-a533-6b3ef2222788)\
+Selecione todos os projetos e clique em OK:\
+![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/1835b1ed-945d-4961-be86-311e0c735d52)\
+Para melhor desempenho do update, abra a aba progress e deixe apenas 1 update executando, clicando em parar nos demais, como na imagem abaixo:\
+![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/34adaa3d-1f8f-4111-aab7-10f2bd45a08a)\
+Assim, apenas um processo de update é executado por vez:\
+![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/74ac9f65-1745-4967-a0ae-017d7ee462de)\
+Após finalização do update, execute o Build All:\
+![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/eef200fa-4755-4058-a692-092a78c26cf7)\

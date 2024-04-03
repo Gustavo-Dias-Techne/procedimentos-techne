@@ -11,6 +11,9 @@ Apenas as branchs: Develop e support/10.0.x utilizam o Java 11. As demais branch
 
 ## ▶️ Executando Projeto
 
+Primeiramente clique nesse link e configure seu settings.xml para prosseguir:
+[Configurar Settings.xml](https://dev.azure.com/technecloud/lyceum-ng/_wiki/wikis/lyceum-ng.wiki/567/Configurar-settings.xml-do-maven)
+
 Faça o clone do projeto edu-lyc-hades:
 ```
 $ git clone git@github.com:technecloud/edu-lyc-hades.git

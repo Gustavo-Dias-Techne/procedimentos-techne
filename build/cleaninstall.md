@@ -30,7 +30,7 @@ Caso ocorra esse erro ao executar o mvnw:\
 ![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/f95532b0-ce6a-43c6-8b95-480c0c5e933b)\
 Execute o comando abaixo e tente novamente:
 ```
-chmod +x mvnw
+$ chmod +x mvnw
 ```
 Após sucesso do build, navegue até a pasta raiz dos seus repositorios e faça o clone do edu-lyc-lyceum:
 ```

@@ -16,44 +16,44 @@ Primeiramente clique nesse link e configure seu settings.xml para prosseguir:\
 
 Faça o clone do projeto edu-lyc-hades:
 ```
-$ git clone git@github.com:technecloud/edu-lyc-hades.git
+git clone git@github.com:technecloud/edu-lyc-hades.git
 ```
 Após o clone, faça o checkout para a branch da develop:
 ```
-$ git checkout develop
+git checkout develop
 ```
 Execute o build do projeto utilizando o mvnw:
 ```
-$ ./mvnw clean install -U
+./mvnw clean install -U
 ```
 Caso ocorra esse erro ao executar o mvnw:\
 ![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/f95532b0-ce6a-43c6-8b95-480c0c5e933b)\
 Execute o comando abaixo e tente novamente:
 ```
-$ chmod +x mvnw
+chmod +x mvnw
 ```
 Após sucesso do build, navegue até a pasta raiz dos seus repositorios e faça o clone do edu-lyc-lyceum:
 ```
-$ git clone git@github.com:technecloud/edu-lyc-lyceum.git
+git clone git@github.com:technecloud/edu-lyc-lyceum.git
 ```
 Faça o checkout para a branch da develop:
 ```
-$ git checkout develop
+git checkout develop
 ```
 Navegue até a pasta lyceum-dependecies
 ```
-$ cd lyceum-dependencies
+cd lyceum-dependencies
 ```
 Execute o clean install:
 ```
-$ ./mvnw clean install -U
+./mvnw clean install -U
 ```
 Após sucesso, retorne para a raiz do edu-lyc-lyceum e execute o build:
 ```
-$ cd ..
+cd ..
 ```
 ```
-$ ./mvnw clean install -U
+./mvnw clean install -U
 ```
 Após finalização, abra o eclipse, execute o maven update:
 ![image](https://github.com/Gustavo-Dias-Techne/procedimentos-techne/assets/144055556/dea4e1d8-9aab-47af-a533-6b3ef2222788)\

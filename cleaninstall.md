@@ -12,7 +12,7 @@ Esta documentação é referente as etapas para o build do edu-lyc-lyceum, levan
 ## ▶️ Executando Projeto
 
 Primeiramente clique nesse link e configure seu settings.xml para prosseguir:\
-[Configurar Settings.xml](https://dev.azure.com/technecloud/lyceum-ng/_wiki/wikis/lyceum-ng.wiki/567/Configurar-settings.xml-do-maven)\
+[Configurar Settings.xml](https://dev.azure.com/technecloud/lyceum-ng/_wiki/wikis/lyceum-ng.wiki/567/Configurar-settings.xml-do-maven)
 
 Faça o clone do projeto edu-lyc-hades:
 ```
